@@ -18,15 +18,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/alien9996/ReactNativeImageFilter.git"
+    "url": "https://github.com/mwerder/react-native-image-filter.git"
   },
   "bugs": {
-    "url": "https://github.com/alien9996/ReactNativeImageFilter/issues"
+    "url": "https://github.com/mwerder/react-native-image-filter/issues"
   },
-  "homepage": "https://github.com/alien9996/ReactNativeImageFilter#readme",
+  "homepage": "https://github.com/mwerder/react-native-image-filter#readme",
   "peerDependencies": {
-    "react-native": ">=0.41.2",
-    "react-native-windows": "0.41.0-rc.1"
+    "react-native": ">=0.41.2"
   },
   "dependencies": {},
   "devDependencies": {
