@@ -1,6 +1,5 @@
-package com.reactlibrary;
-
-import android.support.annotation.NonNull;
+package com.reactlibraryImageFilter;
+import androidx.annotation.NonNull;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.Callback;
