@@ -1,6 +1,5 @@
 
-package com.reactlibrary;
-
+package com.reactlibraryImageFilter;
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
@@ -9,7 +8,7 @@ import com.facebook.react.bridge.Promise;
 import com.facebook.react.bridge.ReactContext;
 import com.facebook.react.bridge.WritableNativeArray;
 import com.facebook.react.bridge.WritableNativeMap;
-import com.reactlibrary.ResponseHelper;
+import com.reactlibraryImageFilter.ResponseHelper;
 import com.facebook.react.bridge.ReadableMap;
 
 import android.graphics.Bitmap;
